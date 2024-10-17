@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
-    <ImageTarget name="nico-robin" size="423.000000 423.000000" />
+    <ImageTarget name="yui-hirasawa" size="1.000000 1.000000" />
+    <ImageTarget name="mikasa-ackerman" size="1.000000 1.000000" />
+    <ImageTarget name="asuka-langley" size="1.000000 1.000000" />
+    <ImageTarget name="madoka" size="1.000000 1.041304" />
+    <ImageTarget name="nico-robin" size="1.000000 1.000000" />
   </Tracking>
 </QCARConfig>
